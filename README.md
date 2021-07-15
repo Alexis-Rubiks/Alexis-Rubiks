@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexis-Rubiks
+- 👋 Hi, I’m Alexis Han
 - 👀 I’m interested in Data Analysis and Visualization, accessible Data Storytelling, and managerial Machine Learning.
 - 🌱 I’m currently learning Python for Visualization and Data Science.
 - 💞️ I’m looking to collaborate on Data Storytelling projects.
